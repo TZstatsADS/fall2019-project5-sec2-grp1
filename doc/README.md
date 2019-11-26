@@ -1,4 +1,6 @@
 # Project: 
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+For running the DCGANs, data can be dowlaoded here:
++ https://www.kaggle.com/gasgallo/faces-data-new
++ https://www.kaggle.com/gasgallo/lag-dataset
