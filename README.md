@@ -2,7 +2,7 @@
 
 Term: Fall 2019
 
-+ Team #
++ Team 1
 + Projec title: Generative Adversarial Networks
 + Team members
 	+ team member 1: Chang Qu (cq2203@columbia.edu)
