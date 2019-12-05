@@ -17,7 +17,7 @@ Term: Fall 2019
 
 Lihao Xiao: Project Leader: Wrote and Trained the DCGANs model and ran the CycleGANs model. Organized github.
 Chang Qu: Major Contributer: Wrote and ran and the CycleGANs model and made the presentation slides and is the presenter of the project.Organized github.
-Dingyi Fang: Basic participation below average.
+Dingyi Fang: Major Contributer: Wrote and ran and the DCGANs model.
 Jongyoon Sohn: No contribution.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
